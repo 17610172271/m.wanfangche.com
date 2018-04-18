@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'feed';
+  src:  url('../fonts/feed/feed.eot?57sgxu');
+  src:  url('../fonts/feed/feed.eot?57sgxu#iefix') format('embedded-opentype'),
+    url('../fonts/feed/feed.ttf?57sgxu') format('truetype'),
+    url('../fonts/feed/feed.woff?57sgxu') format('woff'),
+    url('../fonts/feed/feed.svg?57sgxu#feed') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="fd-"], [class*=" fd-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'feed' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fd-add:before {
+  content: "\e900";
+}
+.fd-address:before {
+  content: "\e901";
+}
+.fd-adress-large:before {
+  content: "\e902";
+}
+.fd-answer:before {
+  content: "\e903";
+}
+.fd-ask:before {
+  content: "\e904";
+}
+.fd-camera .path1:before {
+  content: "\e905";
+  color: rgb(226, 229, 231);
+}
+.fd-camera .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(200, 209, 220);
+  opacity: 0.4041;
+}
+.fd-camera .path3:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+.fd-camera .path4:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+.fd-camera .path5:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(248, 248, 248);
+}
+.fd-chevron-right:before {
+  content: "\e90a";
+}
+.fd-clock:before {
+  content: "\e90b";
+}
+.fd-comment:before {
+  content: "\e90c";
+}
+.fd-emoji:before {
+  content: "\e90d";
+}
+.fd-female:before {
+  content: "\e90e";
+}
+.fd-good:before {
+  content: "\e90f";
+}
+.fd-keyboard:before {
+  content: "\e910";
+}
+.fd-label:before {
+  content: "\e911";
+}
+.fd-male:before {
+  content: "\e912";
+}
+.fd-note:before {
+  content: "\e913";
+}
+.fd-options:before {
+  content: "\e914";
+}
+.fd-pencil:before {
+  content: "\e915";
+}
+.fd-publish:before {
+  content: "\e916";
+}
+.fd-question:before {
+  content: "\e917";
+}
+.fd-search:before {
+  content: "\e918";
+}
+.fd-share:before {
+  content: "\e919";
+}
+.fd-star:before {
+  content: "\e91a";
+}
+.fd-thumb-o-up:before {
+  content: "\e91b";
+}
+.fd-thumb-up-sm:before {
+  content: "\e91c";
+}
+.fd-thumb-up:before {
+  content: "\e91d";
+}
+.fd-trash:before {
+  content: "\e91e";
+}
+.fd-video:before {
+  content: "\e91f";
+}

@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'metaicomoon';
+  src:  url('../metafonts/icomoon.eot?9hf7ss');
+  src:  url('../metafonts/icomoon.eot?9hf7ss#iefix') format('embedded-opentype'),
+    url('../metafonts/icomoon.ttf?9hf7ss') format('truetype'),
+    url('../metafonts/icomoon.woff?9hf7ss') format('woff'),
+    url('../metafonts/icomoon.svg?9hf7ss#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="meta-icon-"], [class*=" meta-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'metaicomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.meta-icon-table:before {
+  content: "\e916";
+}
+.meta-icon-air-conditioning:before {
+  content: "\e900";
+}
+.meta-icon-awning:before {
+  content: "\e901";
+}
+.meta-icon-bathroom:before {
+  content: "\e902";
+}
+.meta-icon-battery:before {
+  content: "\e903";
+}
+.meta-icon-bed:before {
+  content: "\e904";
+}
+.meta-icon-bicycle:before {
+  content: "\e905";
+}
+.meta-icon-car-age:before {
+  content: "\e906";
+}
+.meta-icon-car-air-conditioning:before {
+  content: "\e907";
+}
+.meta-icon-chair:before {
+  content: "\e908";
+}
+.meta-icon-double-bed:before {
+  content: "\e909";
+}
+.meta-icon-driver-license:before {
+  content: "\e90a";
+}
+.meta-icon-fuel-consumption:before {
+  content: "\e90b";
+}
+.meta-icon-fuel-heating:before {
+  content: "\e90c";
+  color: #c8d1dc;
+}
+.meta-icon-fuel-tank-capacity:before {
+  content: "\e90d";
+}
+.meta-icon-fuel:before {
+  content: "\e90e";
+}
+.meta-icon-generator:before {
+  content: "\e90f";
+}
+.meta-icon-height-inside-he-car:before {
+  content: "\e910";
+}
+.meta-icon-microwave:before {
+  content: "\e911";
+}
+.meta-icon-refrigerator:before {
+  content: "\e912";
+}
+.meta-icon-satellite:before {
+  content: "\e913";
+}
+.meta-icon-sink:before {
+  content: "\e914";
+}
+.meta-icon-stove:before {
+  content: "\e915";
+}
+.meta-icon-transmission:before {
+  content: "\e917";
+}
+.meta-icon-tv:before {
+  content: "\e918";
+}
+.meta-icon-vehicle-height:before {
+  content: "\e919";
+}
+.meta-icon-vehicle-length:before {
+  content: "\e91a";
+}
+.meta-icon-vehicle-width:before {
+  content: "\e91b";
+}
+.meta-icon-water:before {
+  content: "\e91c";
+}
+.meta-icon-wc:before {
+  content: "\e91d";
+}
+.meta-icon-window-screen:before {
+  content: "\e91e";
+}

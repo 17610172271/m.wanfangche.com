@@ -1,0 +1,8 @@
+diff a/dev-webapp/src/App.vue b/dev-webapp/src/App.vue	(rejected hunks)
+@@ -1,6 +1,5 @@
+ <template>
+   <div class="app">
+-    <keep-alive>
+     
+       <router-view></router-view>
+   </div>

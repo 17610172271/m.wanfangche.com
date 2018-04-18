@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'icomooncamp';
+  src:  url('../campfonts/icomoon.eot?rfd32z');
+  src:  url('../campfonts/icomoon.eot?rfd32z#iefix') format('embedded-opentype'),
+    url('../campfonts/icomoon.ttf?rfd32z') format('truetype'),
+    url('../campfonts/icomoon.woff?rfd32z') format('woff'),
+    url('../campfonts/icomoon.svg?rfd32z#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-camp-"], [class*=" icon-camp-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomooncamp' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-camp-add-photo:before {
+  content: "\e900";
+}
+.icon-camp-address:before {
+  content: "\e901";
+}
+.icon-camp-camp:before {
+  content: "\e902";
+}
+.icon-camp-camp__selected .path1:before {
+  content: "\e903";
+  color: rgb(0, 0, 0);
+  opacity: 0.6;
+}
+.icon-camp-camp__selected .path2:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-camp-camp_normal:before {
+  content: "\e905";
+}
+.icon-camp-collected:before {
+  content: "\e906";
+}
+.icon-camp-collection:before {
+  content: "\e907";
+}
+.icon-camp-comment:before {
+  content: "\e908";
+}
+.icon-camp-confirm:before {
+  content: "\e909";
+}
+.icon-camp-delete:before {
+  content: "\e90a";
+}
+.icon-camp-food:before {
+  content: "\e90f";
+}
+.icon-camp-information:before {
+  content: "\e910";
+}
+.icon-camp-navigation:before {
+  content: "\e911";
+}
+.icon-camp-open-up:before {
+  content: "\e912";
+}
+.icon-camp-pack-up:before {
+  content: "\e913";
+}
+.icon-camp-park:before {
+  content: "\e914";
+}
+.icon-camp-phone:before {
+  content: "\e915";
+}
+.icon-camp-photo:before {
+  content: "\e916";
+  color: #fff;
+}
+.icon-camp-put-away:before {
+  content: "\e917";
+}
+.icon-camp-scenic:before {
+  content: "\e918";
+}
+.icon-camp-search:before {
+  content: "\e919";
+}
+.icon-camp-search-top:before {
+  content: "\e91a";
+}
+.icon-camp-service:before {
+  content: "\e91b";
+}
+.icon-camp-share:before {
+  content: "\e91c";
+}
+.icon-camp-station:before {
+  content: "\e91d";
+}
+.icon-camp-unfold:before {
+  content: "\e91e";
+}
+.icon-camp-up:before {
+  content: "\e91f";
+  color: #fe9815;
+}
+.icon-camp-Wrong:before {
+  content: "\e920";
+}

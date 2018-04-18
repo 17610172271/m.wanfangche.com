@@ -1,0 +1,9 @@
+diff a/dev-webapp/src/views/camp/detail.vue b/dev-webapp/src/views/camp/detail.vue	(rejected hunks)
+@@ -75,6 +75,7 @@
+         </div>
+         <div class="camp-website" v-show="data.website">
+           <h3 class="text-lg text-bold">网址</h3>
++          <div class="text-md"><a class="a-none" :href="'https://wanfangche.com/redirect/?url=' + data.website" target="_blank">{{data.website}}</a></div>
+         </div>
+         <div class="camp-source" v-if="data.author">
+           <h3 class="text-lg text-bold">来源</h3>
